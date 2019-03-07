@@ -6,7 +6,7 @@ ATLS 5519​: Advanced Special Topics in Technology, Arts, and Media: Design Stu
 Session B: July 9 - August 9, 2019
 Tues, Wed, Thurs: 3pm - 5:30pm in ATLAS 1B25
 Maximum Enrollment: 18
-Instructor: Jean-Baptiste Labrune, Associate Researcher, SciencesPo Paris
+Instructor: Jean-Baptiste Labrune, Associate Researcher, Sciences Po Paris
 
 
 ### Course Description
