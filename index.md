@@ -1,13 +1,14 @@
 ## ATLS 5519: Radical Design
 Summer 2019 Course at ATLAS Institute
 
+[Illustration](http://www.ceramicforms.com/wp-content/uploads/michelle-maher_ceramic_surface_tension-7.jpg)
+
 ### Course Information:
 ATLS 5519​: Advanced Special Topics in Technology, Arts, and Media: Design Studio
 Session B: July 9 - August 9, 2019
 Tues, Wed, Thurs: 3pm - 5:30pm in ATLAS 1B25
 Maximum Enrollment: 18
 Instructor: Jean-Baptiste Labrune, Associate Researcher, Sciences Po Paris
-
 
 ### Course Description
 “Radical atoms” is a vision of human interaction with future dynamic materials that are computationally reconfigurable.  In this course, we will explore how to develop such interfaces, from the point of view of designers. What methods, tools and values will be required in the future when they will become mainstream? What are the early prototypes of these frameworks, and where do they come from in the history of HCI, Design and Speculative practices?
