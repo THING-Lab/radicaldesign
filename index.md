@@ -5,14 +5,17 @@ Summer 2019 Course at ATLAS Institute
 
 ### Course Information:
 ATLS 5519​: Advanced Special Topics in Technology, Arts, and Media: Design Studio
-Session B: July 9 - August 9, 2019
-Tues, Wed, Thurs: 3pm - 5:30pm in ATLAS 1B25
-Maximum Enrollment: 18
-Instructor: Jean-Baptiste Labrune, Senior Lecturer, Sciences Po Paris
+
+**Dates:** Session B: July 9 - August 9, 2019
+
+**Times:** Tues, Wed, Thurs: 3pm - 5:30pm in ATLAS 1B25
+
+**Maximum Enrollment:** 18, Subject to Instructor Approval
+
+**Instructor:** Jean-Baptiste Labrune, Senior Lecturer, Sciences Po Paris, Daniel Leithinger, CU Boulder
 
 ### Course Description
-“Radical atoms” is a vision of human interaction with future dynamic materials that are computationally reconfigurable.  In this course, we will explore how to develop such interfaces, from the point of view of designers. What methods, tools and values will be required in the future when they will become mainstream? What are the early prototypes of these frameworks, and where do they come from in the history of HCI, Design and Speculative practices?
-During the course, the participants will develop video prototypes of radical user interfaces and low-tech props (diegetic artifacts). They will also create storytelling capsules in written form to describe fictional use and scenarios. At the end of the course, most of the material will be documented in open-source and eventually considered to be published in relevant conferences related with the course.
+Nature is not only a reservoir of shapes and processes to be inspired and learn from: it is a place to make and go experiment "beyond the Lab". In this month-long program, we will alternate traditional courses on "Radical Design" with more unusual formats such as a 24/7 open studio, “walk&make” sessions in nature, Zero workshops, lectures by invited guests and a focus on interdisciplinary creativity through hands-on activities. During the course, the participants will develop video prototypes of radical user interfaces and low tech props (diegetic artefacts).They will also create storytelling capsules in written and video form to describe fictional use and scenarios. At the end of the course, most of the material will be documented and shared in a libre & open-source fashion and eventually considered to be published in relevant conferences related with the course
 
 ### Faculty Bio: Jean-Baptiste Labrune
 Jb Labrune is a designer and researcher specializing in the development and study of creative processes in the context of new programmable materials, critical design and avant garde places mixing artists, scientists and thinkers. His researches focus on the notion of "Exaptation", the way in which users of technologies reconfigure and hack them, producing original and unexpected functions and uses. 
