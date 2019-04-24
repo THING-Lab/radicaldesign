@@ -5,18 +5,21 @@ Summer 2019 Course at ATLAS Institute
 [Surface Tension Sculpture by Michelle Maher](http://www.ceramicforms.com/portfolio-item/surface-tension/)
 
 ### Course Information:
-ATLS 5519​: Advanced Special Topics in Technology, Arts, and Media: Design Studio
+ATLS 5519: Advanced Special Topics in Technology, Arts, and Media: Design Studio
 
 **Dates:** Session B: July 9 - August 9, 2019
 
 **Times:** Tues, Wed, Thurs: 3pm - 5:30pm in ATLAS 1B25
 
-**Maximum Enrollment:** 18, Subject to Instructor Approval
+**Enrollment:** 18, Undergraduate students please email daniel.leithinger@colorado.edu for enrollment questions.
 
 **Instructor:** Jean-Baptiste Labrune, Senior Lecturer, Sciences Po Paris, Daniel Leithinger, CU Boulder
 
 ### Course Description
-Nature is not only a reservoir of shapes and processes to be inspired and learn from: it is a place to make and go experiment "beyond the Lab". In this month-long program, we will alternate traditional courses on "Radical Design" with more unusual formats such as a 24/7 open studio, “walk&make” sessions in nature, Zero workshops, lectures by invited guests and a focus on interdisciplinary creativity through hands-on activities. During the course, the participants will develop video prototypes of radical user interfaces and low tech props (diegetic artefacts). They will also create storytelling capsules in written and video form to describe fictional use and scenarios. At the end of the course, most of the material will be documented and shared in a libre & open-source fashion and eventually considered to be published in relevant conferences related with the course
+Nature is not only a reservoir of shapes and processes to be inspired and learn from: it is a place to make and go experiment "beyond the Lab". In this month-long program, we will alternate traditional courses on "Radical Design" with more unusual formats such as a 24/7 open studio, “walk&make” sessions in nature, Zero workshops, lectures by invited guests and a focus on interdisciplinary creativity through hands-on activities. During the course, the participants will develop video prototypes of radical user interfaces and low tech props (diegetic artefacts). They will also create storytelling capsules in written and video form to describe fictional use and scenarios. Throughout the course, the material will be documented and shared in a libre & open-source fashion and eventually considered to be published in relevant conferences related with the course.
+
+### Who Is This Course For?
+This course is for students who want to engage in the design process, build prototypes, create art, and tell stories. We will move between the outdoors and our studio lab space to design sensors, wearables, computer interfaces, and devices inspired by and built for understanding nature. We are aiming at a mix of students with diverse backgrounds and interest in fabrication, coding, electronics, filmmaking, sculpture, and other media.
 
 ### Faculty Bio: Jean-Baptiste Labrune
 Jb Labrune is a designer and researcher specializing in the development and study of creative processes in the context of new programmable materials, critical design and avant garde places mixing artists, scientists and thinkers. His researches focus on the notion of "Exaptation", the way in which users of technologies reconfigure and hack them, producing original and unexpected functions and uses. 
