@@ -2,6 +2,7 @@
 Summer 2019 Course at ATLAS Institute
 
 ![Illustration](http://www.ceramicforms.com/wp-content/uploads/michelle-maher_ceramic_surface_tension-7.jpg)
+Photo: Surface Tension Sculpture by Michelle Maher http://www.ceramicforms.com/portfolio-item/surface-tension/
 
 ### Course Information:
 ATLS 5519​: Advanced Special Topics in Technology, Arts, and Media: Design Studio
@@ -15,7 +16,7 @@ ATLS 5519​: Advanced Special Topics in Technology, Arts, and Media: Design Stu
 **Instructor:** Jean-Baptiste Labrune, Senior Lecturer, Sciences Po Paris, Daniel Leithinger, CU Boulder
 
 ### Course Description
-Nature is not only a reservoir of shapes and processes to be inspired and learn from: it is a place to make and go experiment "beyond the Lab". In this month-long program, we will alternate traditional courses on "Radical Design" with more unusual formats such as a 24/7 open studio, “walk&make” sessions in nature, Zero workshops, lectures by invited guests and a focus on interdisciplinary creativity through hands-on activities. During the course, the participants will develop video prototypes of radical user interfaces and low tech props (diegetic artefacts).They will also create storytelling capsules in written and video form to describe fictional use and scenarios. At the end of the course, most of the material will be documented and shared in a libre & open-source fashion and eventually considered to be published in relevant conferences related with the course
+Nature is not only a reservoir of shapes and processes to be inspired and learn from: it is a place to make and go experiment "beyond the Lab". In this month-long program, we will alternate traditional courses on "Radical Design" with more unusual formats such as a 24/7 open studio, “walk&make” sessions in nature, Zero workshops, lectures by invited guests and a focus on interdisciplinary creativity through hands-on activities. During the course, the participants will develop video prototypes of radical user interfaces and low tech props (diegetic artefacts). They will also create storytelling capsules in written and video form to describe fictional use and scenarios. At the end of the course, most of the material will be documented and shared in a libre & open-source fashion and eventually considered to be published in relevant conferences related with the course
 
 ### Faculty Bio: Jean-Baptiste Labrune
 Jb Labrune is a designer and researcher specializing in the development and study of creative processes in the context of new programmable materials, critical design and avant garde places mixing artists, scientists and thinkers. His researches focus on the notion of "Exaptation", the way in which users of technologies reconfigure and hack them, producing original and unexpected functions and uses. 
