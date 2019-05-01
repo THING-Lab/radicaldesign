@@ -20,6 +20,7 @@ Nature is not only a reservoir of shapes and processes to be inspired and learn 
 
 ### Who Is This Course For?
 We welcome undergrad and graduate students from diverse backgrounds and interest in art, design, fabrication, coding, electronics, filmmaking, sculpture. This course is for students who want to learn a project design process, build prototypes, create art, and tell stories. Beyond the class meeting times, join us to build cool things outdoors and in our 24/7 open studio.  
+If you are not a TAM student, email: daniel.leithinger@colorado.edu to enroll.
 
 ### Faculty Bio: Jean-Baptiste Labrune
 Jb Labrune is a designer and researcher specializing in the development and study of creative processes in the context of new programmable materials, critical design and avant garde places mixing artists, scientists and thinkers. His researches focus on the notion of "Exaptation", the way in which users of technologies reconfigure and hack them, producing original and unexpected functions and uses. 
