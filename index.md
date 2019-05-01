@@ -11,7 +11,7 @@ ATLS 5519: Advanced Special Topics in Technology, Arts, and Media: Design Studio
 
 **Times:** Tues, Wed, Thurs: 3pm - 5:30pm in ATLAS 1B25
 
-**Enrollment:** Graduate students enroll in ATLS 5519. Undergraduate students please email marisa.reynolds@colorado.edu to enroll.
+**Enrollment:** Graduate students enroll in ATLS 5519, Undergraduate students in ATLS 4519. To enroll as a on-TAM student, please email: daniel.leithinger@colorado.edu
 
 **Instructor:** Jean-Baptiste Labrune, Senior Lecturer, Sciences Po Paris, Daniel Leithinger, CU Boulder
 
@@ -20,7 +20,6 @@ Nature is not only a reservoir of shapes and processes to be inspired and learn 
 
 ### Who Is This Course For?
 We welcome both graduate and undergraduate students from diverse backgrounds and interest in art, design, fabrication, coding, electronics, filmmaking, sculpture. This course is for anyone who wants to learn novel design processes, build prototypes, create art, and tell stories. Beyond the class meeting times, join us to build cool things outdoors and in our 24/7 open studio.    
-To enroll as a non-TAM student, email: daniel.leithinger@colorado.edu
 
 ### Faculty Bio: Jean-Baptiste Labrune
 Jb Labrune is a designer and researcher specializing in the development and study of creative processes in the context of new programmable materials, critical design and avant garde places mixing artists, scientists and thinkers. His researches focus on the notion of "Exaptation", the way in which users of technologies reconfigure and hack them, producing original and unexpected functions and uses. 
