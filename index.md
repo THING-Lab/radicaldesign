@@ -11,7 +11,7 @@ ATLS 4519/5519: Advanced Special Topics in Technology, Arts, and Media: Design S
 
 **Times:** Tues, Wed, Thurs: 3pm - 5:30pm in ATLAS 1B25
 
-**Enrollment:** Graduate students enroll in ATLS 5519, Undergraduate students in ATLS 4519. To enroll as a non-TAM student, please email: daniel.leithinger@colorado.edu
+**Enrollment:** This class is open to anyone. CU Boulder graduate students should enroll in ATLS 5519, undergraduate students in ATLS 4519, and non-CU Boulder students should email daniel.leithinger@colorado.edu for instructions.
 
 **Instructor:** Jean-Baptiste Labrune, Senior Lecturer, Sciences Po Paris, Daniel Leithinger, CU Boulder
 
