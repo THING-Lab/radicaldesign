@@ -1,5 +1,5 @@
 ## ATLS 4519/5519: Radical Design
-### Exploring programmable biomaterials 
+### Exploring programmable biomaterials through design, hacking and consciousness practices
 Summer 2019 Course at ATLAS Institute
 
 <img src="https://github.com/THING-Lab/radicaldesign/raw/master/montagem.jpg">
