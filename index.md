@@ -2,8 +2,7 @@
 ### From Nature to Lab / From Lab to Nature
 Summer 2019 Course at ATLAS Institute
 
-![](http://web.media.mit.edu/~labrune/rd/montage-l.jpg)
-![Illustration](http://www.ceramicforms.com/wp-content/uploads/michelle-maher_ceramic_surface_tension-7.jpg)
+![](https://web.media.mit.edu/~labrune/rd/montage-l.jpg)
 
 ### Course Information:
 ATLS 4519/5519: Advanced Special Topics in Technology, Arts, and Media: Design Studio
