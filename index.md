@@ -2,7 +2,7 @@
 ### Exploring programmable biomaterials 
 Summer 2019 Course at ATLAS Institute
 
-<img src="https://github.com/THING-Lab/radicaldesign/raw/master/montage-l.jpg">
+<img src="https://github.com/THING-Lab/radicaldesign/raw/master/montagem.jpg">
 
 ### Course Information:
 ATLS 4519/5519: Advanced Special Topics in Technology, Arts, and Media: Design Studio
